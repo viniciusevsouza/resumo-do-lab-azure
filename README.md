@@ -7,4 +7,4 @@ localização das opcões de configuração gerais
 
 introdução as categorias disponiveis em todos os serviços ex compute, network, storage
 
-cuidados baxiso com versões previa 
+cuidados basicos com versões previa 
