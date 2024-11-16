@@ -31,6 +31,14 @@ Introdução as contas de armazenamento e basicos da reduncia
   - ZRS(Zona) - recomendada para cenarios de alta disponibilidade
   - GZRS(Zona geografica) - recomndada para cenarios de dados criticos
 
+## lab 3
+Introdução as opcões de Imagem e arquitetura para as maquinas virtuais
+
+localização das opcões de configuração para as maquinas virtuais
+
+Introdução as opções para criação de banco de dados e servidores
+
+
 
 
 
